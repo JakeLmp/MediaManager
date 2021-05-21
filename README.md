@@ -2,5 +2,6 @@
 
 ## ----- DEPENDENCIES -----
 os
+pathlib
 time
 vlc
