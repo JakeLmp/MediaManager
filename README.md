@@ -1,7 +1,7 @@
 # MediaManager
 
 ## ----- DEPENDENCIES -----
-os
-pathlib
-time
-vlc
+os /n
+pathlib /n
+time /n
+vlc /n
